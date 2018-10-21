@@ -1,0 +1,13 @@
+{
+  "associateObligationDependencyDescription" : "Legal Assistant Obligation",
+  "productInstanceReference" : "PRIR5859",
+  "associateReference" : "ASRE4820",
+  "preferredBeneficiary" : "Father",
+  "employeeReference" : "EMPR3816",
+  "customerReferenceDataDirectoryEntryReference" : "CRDDER679",
+  "customerReference" : "CR3816",
+  "associateType" : "Familial",
+  "associationValidFromTo" : "2017-07-01 To 2018-07-31",
+  "proxyRepresentativePowerOfAttorneyReference" : "PRPA7398",
+  "associationsDirectoryEntryReference" : "ADER123"
+}
